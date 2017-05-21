@@ -14,6 +14,5 @@ Visualizing correlation using multiple scatterplots between different pairs of a
   * Create build directory 
 ````
 mkdir build
-
-* 
-``` cmake ..
+cd build
+cmake ..
